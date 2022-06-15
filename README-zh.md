@@ -1,21 +1,5 @@
-![Logo](art/autosize_banner.jpg)
-![Official](https://raw.githubusercontent.com/JessYanCoding/MVPArms/master/image/official.jpeg)
-
-<p align="center">
-   <a href="https://bintray.com/jessyancoding/maven/autosize/_latestVersion">
-    <img src="https://img.shields.io/badge/Jcenter-v1.2.1-brightgreen.svg?style=flat-square" alt="Latest Stable Version" />
-  </a>
-</p>
-
 
 ##  Android 屏幕适配方案.
-
-
-
-### Jcenter ([ ⚠️ 已停止维护: 2022 年 2 月 1 日之后 JCenter 远程仓库将无法使用](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter)):
-``` gradle
-    implementation 'com.github.GreeAutoSize-Android:1.0.1'
-```
 
 ### JitPack:
 Step 1. Add the JitPack repository in your root build.gradle at the end of repositories:
