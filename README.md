@@ -23,7 +23,7 @@ dependencies {
 
 ## Usage
 ### Step 1 (只需要以下这一步，框架就可以对项目中的所有页面进行适配)
-* **请在 AndroidManifest 中填写全局设计图尺寸 (单位 dp)，如果使用副单位，则可以直接填写像素尺寸，不需要再将像素转化为 dp，详情请查看 [demo-subunits](https://github.com/JessYanCoding/AndroidAutoSize/tree/master/demo-subunits)**
+* **请在 AndroidManifest 中填写全局设计图尺寸 (单位 dp)，如果使用副单位，则可以直接填写像素尺寸，不需要再将像素转化为 dp**
 ```xml
 <manifest>
     <application>            
