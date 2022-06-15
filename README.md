@@ -1,6 +1,6 @@
 
-##  Android 屏幕适配方案.
-
+## Android 屏幕适配方案.
+[![](https://jitpack.io/v/arksjs/GreeAutoSize-Android.svg)](https://jitpack.io/#arksjs/GreeAutoSize-Android)
 ### JitPack:
 Step 1. Add the JitPack repository in your root build.gradle at the end of repositories:
 
@@ -17,7 +17,7 @@ Step 2. Add the dependency
 
 ```gradle
 dependencies {
-    implementation 'com.github.GreeAutoSize-Android:1.0.1'
+    implementation 'com.github.arksjs:GreeAutoSize-Android:1.0.1'
 }
 ```
 
